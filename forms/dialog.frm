@@ -68,6 +68,16 @@ typeid:7,
 uuid:"8fb398c4-064f-4222-82b9-74f4fdc8410e"
 },
 {
+formIndex:10801,
+location:"178,192",
+onActionMethodID:"-1",
+onDoubleClickMethodID:"-1",
+onRightClickMethodID:"-1",
+text:"BART",
+typeid:7,
+uuid:"B3728F06-3402-4109-8A09-AA9C5B564368"
+},
+{
 borderType:"EmptyBorder,0,0,0,0",
 formIndex:10000,
 items:[
