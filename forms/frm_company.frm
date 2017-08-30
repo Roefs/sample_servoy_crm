@@ -514,7 +514,7 @@ location:"235,129",
 mediaOptions:14,
 size:"70,20",
 tabSeq:-1,
-text:"ID TEST",
+text:"ID TEST SYNC",
 transparent:true,
 typeid:7,
 uuid:"d314e7f1-7362-4a4e-94fd-3b2d82c86c9f"
