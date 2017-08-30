@@ -1,0 +1,12 @@
+addEmptyValue:1,
+dataProviderID1:"contact_id",
+dataProviderID2:"name_first",
+dataProviderID3:"name_last",
+name:"order_company_contacts",
+relationName:"order_company_to_contacts",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"name_first asc, name_last asc",
+typeid:34,
+uuid:"2530accf-9c01-4d19-8712-eb506e85adbe",
+valueListType:1

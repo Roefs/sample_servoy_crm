@@ -1,0 +1,11 @@
+addEmptyValue:1,
+dataProviderID1:"company_id",
+dataProviderID2:"company_name",
+dataSource:"db:/udm/companies",
+name:"companies",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"company_name asc",
+typeid:34,
+uuid:"ba6ce6b4-3756-40bc-81cb-3e82a958e7b7",
+valueListType:1

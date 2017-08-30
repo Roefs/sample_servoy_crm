@@ -1,0 +1,11 @@
+customValues:"Ground\
+Air\
+-\
+FedEx\
+UPS\
+DHL\
+-\
+Truck",
+name:"order_shipVia",
+typeid:34,
+uuid:"e035b57a-eb44-41ed-8ae5-a29d67fd88ac"

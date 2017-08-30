@@ -1,0 +1,8 @@
+foreignDataSource:"db:/udm/companies",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"ec333e57-06f2-41cd-b119-b2eed8e61861"}
+],
+name:"orders_to_companies",
+primaryDataSource:"db:/udm/orders",
+typeid:22,
+uuid:"8fe0a40c-bd0d-409d-9e13-6d0c0837b707"

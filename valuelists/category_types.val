@@ -1,0 +1,12 @@
+addEmptyValue:1,
+dataProviderID1:"value_id",
+dataProviderID2:"value1",
+dataSource:"db:/udm/valuelists",
+name:"category_types",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"value1 asc",
+typeid:34,
+useTableFilter:true,
+uuid:"70c8fb7d-f98f-4b55-9e54-f54dde782db4",
+valueListType:1

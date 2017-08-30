@@ -1,0 +1,9 @@
+dataProviderID1:"job_title",
+dataSource:"db:/udm/contacts",
+name:"contact_titles",
+returnDataProviders:1,
+showDataProviders:1,
+sortOptions:"job_title asc",
+typeid:34,
+uuid:"33cbb619-11e4-44e6-af1d-c6c728afaeb6",
+valueListType:1

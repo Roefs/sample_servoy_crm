@@ -1,0 +1,11 @@
+dataProviderID1:"address_id",
+dataProviderID2:"city",
+dataProviderID3:"line_1",
+name:"company_addresses",
+relationName:"orders_company_to_addresses",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"city asc, line_1 asc",
+typeid:34,
+uuid:"6e7373df-e42d-4690-83ad-d0d245de25ab",
+valueListType:1

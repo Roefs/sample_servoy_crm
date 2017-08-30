@@ -1,0 +1,11 @@
+dataProviderID1:"value2",
+dataProviderID2:"value1",
+dataSource:"db:/udm/valuelists",
+name:"country_types",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"value1 asc",
+typeid:34,
+useTableFilter:true,
+uuid:"12a60baa-6c89-4371-abfe-5ef3eb5e1166",
+valueListType:1

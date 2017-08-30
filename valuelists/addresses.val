@@ -1,0 +1,11 @@
+dataProviderID1:"address_id",
+dataProviderID2:"city",
+dataProviderID3:"line_1",
+dataSource:"db:/udm/addresses",
+name:"addresses",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"city asc, line_1 asc",
+typeid:34,
+uuid:"c47f61ff-6939-461d-9cf5-af5ba79076c5",
+valueListType:1

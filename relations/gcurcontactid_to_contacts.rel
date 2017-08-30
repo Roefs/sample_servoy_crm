@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/udm/contacts",
+items:[
+{foreignColumnName:"contact_id",primaryDataProviderID:"globals.curID_contact",typeid:23,uuid:"5dcb0da8-b47c-4a7e-8341-6cbe9683d5c6"}
+],
+name:"gcurcontactid_to_contacts",
+primaryDataSource:"db:/udm/contacts",
+typeid:22,
+uuid:"e7b80f55-1385-40af-aea4-50bdffe5ff88"

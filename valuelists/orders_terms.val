@@ -1,0 +1,9 @@
+dataProviderID1:"terms",
+dataSource:"db:/udm/orders",
+name:"orders_terms",
+returnDataProviders:1,
+showDataProviders:1,
+sortOptions:"terms asc",
+typeid:34,
+uuid:"fd93a727-27d7-4738-9d68-403a0b5b8b31",
+valueListType:1

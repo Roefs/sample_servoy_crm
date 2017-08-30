@@ -1,0 +1,8 @@
+foreignDataSource:"db:/udm/companies",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"08479ae6-af9a-4f7a-8590-bddfe8eae58d"}
+],
+name:"contacts_to_companies",
+primaryDataSource:"db:/udm/contacts",
+typeid:22,
+uuid:"dad231e8-3099-4a19-ac38-c0d0d962a1b9"

@@ -1,0 +1,9 @@
+allowCreationRelatedRecords:true,
+foreignDataSource:"db:/udm/addresses",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"globals.curID_company",typeid:23,uuid:"271be8d2-9cc3-4f9e-a7a1-180ca9ec8734"}
+],
+name:"gcurcompanyid_to_addresses",
+primaryDataSource:"db:/udm/contacts",
+typeid:22,
+uuid:"ee953820-c50f-4d12-8ca8-c48b0840c6dd"

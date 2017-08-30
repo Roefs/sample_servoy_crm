@@ -1,0 +1,12 @@
+dataSource:"db:/udm/orders",
+items:[
+{
+dataProviderIDToAggregate:"order_total",
+name:"orders_total",
+type:4,
+typeid:40,
+uuid:"90baa505-8777-4283-8263-9bc095ea1f39"
+}
+],
+typeid:39,
+uuid:"46064b4d-7a5d-4c1a-a0bb-f108d63d2853"

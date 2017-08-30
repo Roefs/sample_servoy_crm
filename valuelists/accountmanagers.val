@@ -1,0 +1,10 @@
+dataProviderID1:"contact_id",
+dataProviderID2:"name_first",
+dataProviderID3:"name_last",
+name:"accountmanagers",
+relationName:"gmaincompany.companies_to_contacts",
+returnDataProviders:1,
+showDataProviders:6,
+typeid:34,
+uuid:"FC69B0FE-1A0E-4D52-91F2-95CBC0BAD055",
+valueListType:1

@@ -1,0 +1,11 @@
+dataProviderID1:"value_id",
+dataProviderID2:"value1",
+dataSource:"db:/udm/valuelists",
+name:"contact_types",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"value1 asc",
+typeid:34,
+useTableFilter:true,
+uuid:"d13ed873-424d-4f14-85de-b06148af5ee3",
+valueListType:1

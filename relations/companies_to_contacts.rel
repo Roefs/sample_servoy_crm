@@ -1,0 +1,10 @@
+allowCreationRelatedRecords:true,
+deleteRelatedRecords:true,
+foreignDataSource:"db:/udm/contacts",
+items:[
+{foreignColumnName:"company_id",primaryDataProviderID:"company_id",typeid:23,uuid:"c8bd34c8-ae74-4378-ab04-f5f26c4589f5"}
+],
+name:"companies_to_contacts",
+primaryDataSource:"db:/udm/companies",
+typeid:22,
+uuid:"cd8d0832-d699-477d-88fe-911472e4c596"

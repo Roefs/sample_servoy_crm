@@ -1,0 +1,10 @@
+addEmptyValue:1,
+dataProviderID1:"solution_id",
+dataProviderID2:"display_name",
+dataSource:"db:/udm/solution_names",
+name:"sh_solutions",
+returnDataProviders:1,
+showDataProviders:2,
+typeid:34,
+uuid:"6fa92fa4-b9cc-45b4-a536-498038914a87",
+valueListType:1

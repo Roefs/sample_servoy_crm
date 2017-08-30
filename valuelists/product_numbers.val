@@ -1,0 +1,10 @@
+dataProviderID1:"product_id",
+dataProviderID2:"product_number",
+dataSource:"db:/udm/products",
+name:"product_numbers",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"product_number asc",
+typeid:34,
+uuid:"f6bf4821-4721-4e80-b157-761f470bc8a6",
+valueListType:1

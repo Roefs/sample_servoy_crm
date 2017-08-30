@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"ACTIVE|1\
+INACTIVE|0",
+name:"status_active",
+typeid:34,
+uuid:"aa2bae0c-e7b6-4fa5-b584-22cdc7b1e899"

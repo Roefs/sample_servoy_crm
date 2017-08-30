@@ -1,0 +1,8 @@
+foreignDataSource:"db:/udm/solution_navigation",
+items:[
+{foreignColumnName:"solution_id",primaryDataProviderID:"globals.thisSolution_ID",typeid:23,uuid:"c7f2f7b6-bea1-44c5-bf1a-bcb8ee97c01a"}
+],
+name:"gthissolutionid_to_solution_navigation",
+primaryDataSource:"db:/udm/solution_navigation",
+typeid:22,
+uuid:"d44e22fb-cedf-4fb9-9beb-7a614b8b8ba9"

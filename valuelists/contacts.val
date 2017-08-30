@@ -1,0 +1,11 @@
+dataProviderID1:"contact_id",
+dataProviderID2:"name_first",
+dataProviderID3:"name_last",
+dataSource:"db:/udm/contacts",
+name:"contacts",
+returnDataProviders:1,
+showDataProviders:6,
+sortOptions:"name_first asc, name_last asc",
+typeid:34,
+uuid:"25a93f5e-6088-4a26-b0e5-638271c6fa39",
+valueListType:1

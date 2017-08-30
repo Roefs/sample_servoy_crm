@@ -1,0 +1,8 @@
+foreignDataSource:"db:/udm/orders",
+items:[
+{foreignColumnName:"contact_id",primaryDataProviderID:"contact_id",typeid:23,uuid:"32ea9024-690b-4f9c-893b-9b8fb1ec9f47"}
+],
+name:"contacts_to_orders",
+primaryDataSource:"db:/udm/contacts",
+typeid:22,
+uuid:"2198fc13-5856-47c0-94f2-30e5fbce77dd"

@@ -1,0 +1,6 @@
+addEmptyValue:1,
+customValues:"OPEN|1\
+CLOSED|0",
+name:"order_status",
+typeid:34,
+uuid:"039c7aa3-22ab-4f36-ac11-d8988bd7dd34"

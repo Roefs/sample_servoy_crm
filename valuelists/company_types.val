@@ -1,0 +1,11 @@
+dataProviderID1:"value_id",
+dataProviderID2:"value1",
+dataSource:"db:/udm/valuelists",
+name:"company_types",
+returnDataProviders:1,
+showDataProviders:2,
+sortOptions:"value1 asc",
+typeid:34,
+useTableFilter:true,
+uuid:"44c92cb8-1dfb-4f20-b20a-a206c21a5480",
+valueListType:1

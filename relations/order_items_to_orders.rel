@@ -1,0 +1,8 @@
+foreignDataSource:"db:/udm/orders",
+items:[
+{foreignColumnName:"order_id",primaryDataProviderID:"order_id",typeid:23,uuid:"2eb86380-7d46-4c4a-a27c-0949aea79c38"}
+],
+name:"order_items_to_orders",
+primaryDataSource:"db:/udm/order_items",
+typeid:22,
+uuid:"b8d87e81-bef0-45b9-bddf-d6b6a7933344"
