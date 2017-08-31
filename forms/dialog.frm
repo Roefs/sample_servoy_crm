@@ -69,7 +69,7 @@ uuid:"8fb398c4-064f-4222-82b9-74f4fdc8410e"
 },
 {
 formIndex:10801,
-location:"178,187",
+location:"375,32",
 onActionMethodID:"-1",
 onDoubleClickMethodID:"-1",
 onRightClickMethodID:"-1",
