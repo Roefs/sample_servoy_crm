@@ -79,7 +79,7 @@ uuid:"B3728F06-3402-4109-8A09-AA9C5B564368"
 },
 {
 formIndex:10802,
-location:"133,202",
+location:"88,151",
 onActionMethodID:"-1",
 onDoubleClickMethodID:"-1",
 onRightClickMethodID:"-1",
